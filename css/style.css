@@ -1,0 +1,36 @@
+html,body {
+margin: 0;
+}
+
+header{
+    height:120px;
+    background:#000;
+    margin:0px auto;
+}
+
+main{
+    height:700px;
+    background:#000;
+    border:1px solid #fff;
+    margin:0px auto;
+}
+
+footer{
+    height:60px;
+    background:#000;
+    border:1px solid #fff;
+    margin:0px auto;
+}
+
+.logo{
+
+    float: left;
+    font-family: monospace;
+	margin-left:40px;
+}
+
+.logo a{
+	text-decoration: none;
+	color: white;
+	font-size: 22px;
+}
