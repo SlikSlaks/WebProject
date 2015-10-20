@@ -1,0 +1,1 @@
+window.onload = function() {jQuery('camera_wrap').camera();}
